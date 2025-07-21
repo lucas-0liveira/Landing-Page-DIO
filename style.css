@@ -114,4 +114,36 @@
     border-bottom: 1px solid #33A8DB;
   }
 
-  
+  #transform-world {
+    font-weight: 900;
+    font-size: 2.5rem;
+    max-width: 250px;
+    text-shadow: 3px 2px #33A8DB;
+    text-transform: lowercase;
+  }
+
+  #professional-challenges {
+    width: 800px;
+    text-align: center;
+  }
+
+  #professional-challenges img {
+    margin: 32px 0;
+  }
+
+  footer {
+    text-align: center;
+    background-image:  linear-gradient(rgba(50, 168, 219, .0), rgba(50, 168, 219, .2));
+    padding: 60px 0;
+    border-top: 1px solid #33A8DB80;
+  }
+
+  footer .dio-logo {
+    width: 300px;
+  }
+
+  footer a {
+    color: #33A8DB;
+    font-weight: bold;
+    text-decoration: none;
+  }
