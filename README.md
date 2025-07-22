@@ -1,8 +1,8 @@
 # Desafio 01: Criando Landing Page DIO com HTML e CSS
 
-Primeiro desafio da Trilha de CSS da DIO! Nela, contrui uma primeira Landing Page com HTML e CSS, A ideia foi desenvolver um site simples, 
-mas com um design atraente e responsivo, utilizando apenas essas duas tecnologias. O principal objetivo foi aprimorar minhas habilidades 
-em estruturação de páginas com HTML e estilização com CSS.
+Este foi o primeiro desafio da Trilha de CSS da DIO! Nele, desenvolvi minha primeira Landing Page utilizando apenas HTML e CSS. 
+A proposta era criar um site simples, mas com um design moderno e responsivo. Meu principal objetivo foi praticar a estruturação de páginas com HTML, e ao mesmo tempo,
+aprimorar minhas habilidades de estilização com CSS
 
 [Clique aqui](https://lucas-0liveira.github.io/Landing-Page-DIO/) para acessar o resultado final da Landing Page criada a partir do desafio!
 
